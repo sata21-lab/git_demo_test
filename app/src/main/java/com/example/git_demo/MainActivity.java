@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         text=findViewById(R.id.text);//添加文字
         //测试拉取
+        //测试冲突1
     }
 }
